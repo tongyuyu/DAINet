@@ -1,4 +1,4 @@
-# Depth alignment interaction network for camoufaged object detection
+# Depth alignment interaction network for camouflaged object detection
 
 # cite
 ```
